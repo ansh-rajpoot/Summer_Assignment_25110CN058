@@ -7,3 +7,4 @@ for i in range(n):
     next_term=a+b
     a=b
     b= next_term
+    
