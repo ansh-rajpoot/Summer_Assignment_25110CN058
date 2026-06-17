@@ -33,4 +33,4 @@ for i in range(size):
 print("\nThe complete array 2 you entered is:")
 print(arr2)
 
-print('The union og given arrays is', union_array(arr1,arr2))
+print('The union of given arrays is', union_array(arr1,arr2))
